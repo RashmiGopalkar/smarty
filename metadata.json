@@ -1,0 +1,6 @@
+{
+  "name": "Smarty",
+  "description": "Smarty is a vibrant, full-stack friendly study companion. It features an interactive character, voice chat, study timers, color-coded calendars/timetables, homework helper with image analysis, customizable store upgrades, subjects progress tracker, and smart revision quizzes powered by Gemini.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
